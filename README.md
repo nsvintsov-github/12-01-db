@@ -116,7 +116,7 @@ CREATE TABLE IF NOT EXISTS public.project (
 ```
 
 `Изображение схемы базы данных
-![schema image](img/file_schm.jpg)`
+![schema image](img/schema.jpg)`
 
 
 ---
