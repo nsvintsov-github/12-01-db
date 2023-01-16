@@ -115,8 +115,8 @@ CREATE TABLE IF NOT EXISTS public.project (
 потребоваться для нормальной работы логики приложения.
 ```
 
-`Изображение схемы базы данных
-![schema image](img/schema.jpg)`
+`Изображение схемы базы данных`
+![schema image](img/schema.jpg)
 
 
 ---
